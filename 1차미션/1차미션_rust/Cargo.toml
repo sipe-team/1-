@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "rustlings/*",
+    "servers/*",
+    "servers/*/migration"
+]
